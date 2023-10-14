@@ -1,4 +1,6 @@
-# TFM2023
+# Trabajo Final de Master - octubre 2023
+## Master Universitario en Modelización e Investigación Matemática, Estadística y Computación.
+
 Análisis Semántico de Opiniones en Twitter sobre la Vacunación del COVID-19. Codigos generados
 Utilizando como marco de datos los recopilados por el grupo Panacea Lab de la Universidad Estatal de Georgia, se seleccionaron y extrajeron un total de 11,787
 tweets publicados durante el periodo comprendido entre el 1 de marzo 2020 al 15 de abril 2020 en la plataforma de redes sociales Twitter. El objetivo es identificar las opiniones de
